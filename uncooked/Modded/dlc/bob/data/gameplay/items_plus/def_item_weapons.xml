@@ -2903,7 +2903,7 @@
 				localisation_key_description	="item_desc_silver_sword"
 				icon_path						="icons/inventory/weapons/vampire_silver_sword_64x128.png"
 			>
-				<tags>							Autogen, AutogenUseLevelRange, AutogenForceLevel, PlayerSilverWeapon, Weapon, sword1h, mod_weapon, EP1
+				<tags>							Autogen, AutogenUseLevelRange, AutogenForceLevel, PlayerSilverWeapon, Weapon, sword1h, mod_weapon, EP1, VampireSet, SetBonusPiece
 				</tags>
 				<base_abilities>				<a>Default weapon _Stats</a>
 												<a>q704 vampire silver sword _Stats</a>
