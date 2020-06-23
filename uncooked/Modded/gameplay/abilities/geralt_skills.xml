@@ -424,7 +424,7 @@
       <ability name="magic_s11">
         <tags>magic_s11</tags>
         <direct_damage_per_sec type="add" min="25" />
-		<direct_damage_per_sec type="mult" min="0.05" />
+		<direct_damage_per_sec type="mult" min="0.01" />
       </ability>
 	
       <!-- aard passive spell power bonus -->
