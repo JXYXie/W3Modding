@@ -342,14 +342,14 @@
 				<quality						type="add"	min="4"					/>
 				<item_level_min					type="add"	min="40"				/>
 				<item_level_max					type="add"	min="100"				/>
-				<SilverDamage 					type="base"	min="1"					/>
+				<SilverDamage 					type="base"	min="20"				/>
 				<critical_hit_chance			type="add"	min="0.25"				/>
 				<critical_hit_damage_bonus		type="add"	min="0.75"				/>
-				<desc_bleedingchance_mult		type="add"	min="0.15"				/>
+				<desc_bleedingchance_mult		type="add"	min="0.25"				/>
 				<BleedingEffect					is_ability="true"					/>
-				<desc_confusionchance_mult 		type="add" min="0.15" 				/>
+				<desc_confusionchance_mult 		type="add" min="0.25" 				/>
 				<ConfusionEffect 				is_ability="true" 					/>
-				<buff_apply_chance				type="add"	min="0.15"				/>
+				<buff_apply_chance				type="add"	min="0.25"				/>
 				<armor_reduction 							min="200"				/>
 			</ability>
 			
@@ -358,30 +358,30 @@
 				<quality						type="add"	min="4"					/>
 				<item_level_min					type="add"	min="40"				/>
 				<item_level_max					type="add"	min="100"				/>
-				<SilverDamage 					type="base"	min="1"					/>
+				<SilverDamage 					type="base"	min="20"				/>
 				<critical_hit_chance			type="add"	min="0.25"				/>
 				<critical_hit_damage_bonus		type="add"	min="0.75"				/>
-				<desc_bleedingchance_mult		type="add"	min="0.15"				/>
+				<desc_bleedingchance_mult		type="add"	min="0.25"				/>
 				<BleedingEffect					is_ability="true"					/>
-				<desc_confusionchance_mult 		type="add" min="0.15" 				/>
+				<desc_confusionchance_mult 		type="add" min="0.25" 				/>
 				<ConfusionEffect 				is_ability="true" 					/>
-				<buff_apply_chance				type="add"	min="0.15"				/>
+				<buff_apply_chance				type="add"	min="0.25"				/>
 				<armor_reduction 							min="200"				/>
 			</ability>
 			
 			<ability name="q704 vampire silver sword _Stats">
 				<weight							type="base"	min="4.4"				/>
 				<quality						type="add"	min="4"					/>
-				<SlashingDamage 				type="base"	min="1"					/>
+				<SlashingDamage 				type="base"	min="50"				/>
 				<item_level_min					type="add"	min="40"				/>
 				<item_level_max					type="add"	min="100"				/>
 				<critical_hit_chance			type="add"	min="0.25"				/>
 				<critical_hit_damage_bonus		type="add"	min="0.75"				/>
-				<desc_bleedingchance_mult		type="add"	min="0.15"				/>
+				<desc_bleedingchance_mult		type="add"	min="0.25"				/>
 				<BleedingEffect					is_ability="true"					/>
-				<desc_confusionchance_mult 		type="add" min="0.15" 				/>
+				<desc_confusionchance_mult 		type="add" min="0.25" 				/>
 				<ConfusionEffect 				is_ability="true" 					/>
-				<buff_apply_chance				type="add"	min="0.15"				/>
+				<buff_apply_chance				type="add"	min="0.25"				/>
 				<armor_reduction 							min="200"				/>
 			</ability>
 			
@@ -392,14 +392,14 @@
 				<quality						type="add"	min="4"					/>
 				<item_level_min					type="add"	min="40"				/>
 				<item_level_max					type="add"	min="100"				/>
-				<SilverDamage 					type="base"	min="1"					/>
+				<SilverDamage 					type="base"	min="20"				/>
 				<critical_hit_chance			type="add"	min="0.25"				/>
 				<critical_hit_damage_bonus		type="add"	min="0.75"				/>
-				<desc_bleedingchance_mult		type="add"	min="0.15"				/>
+				<desc_bleedingchance_mult		type="add"	min="0.25"				/>
 				<BleedingEffect					is_ability="true"					/>
-				<desc_confusionchance_mult 		type="add" min="0.15" 				/>
+				<desc_confusionchance_mult 		type="add" min="0.25" 				/>
 				<ConfusionEffect 				is_ability="true" 					/>
-				<buff_apply_chance				type="add"	min="0.15"				/>
+				<buff_apply_chance				type="add"	min="0.25"				/>
 				<armor_reduction 							min="200"				/>
 			</ability>
 

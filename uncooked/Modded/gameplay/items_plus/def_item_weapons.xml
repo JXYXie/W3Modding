@@ -224,15 +224,15 @@
 	<ability name="q402 Skellige sword 3 _Stats">
 		<weight							type="base"	min="4.2"				/>
 		<quality						type="add"	min="4"		max="4"		/>
-		<SilverDamage 					type="base"	min="25"					/>
-		<armor_reduction				type="base"	min="150"				/>
+		<SilverDamage 					type="base"	min="20"					/>
+		<armor_reduction				type="base"	min="100"				/>
 		<spell_power_aard				type="mult"	min="0.25"				/>
 		<FrostDamage 					type="add"  min="200" 	max="200"	/>	
-		<desc_freezingchance_mult 		type="add" 	min="0.3" 				/>
-		<buff_apply_chance 				type="add" 	min="0.3" 				/>
+		<desc_freezingchance_mult 		type="add" 	min="0.5" 				/>
+		<buff_apply_chance 				type="add" 	min="0.5" 				/>
 		<SlowdownFrostEffect 			is_ability="true" 					/>
 		<critical_hit_chance			type="add"	min="0.25"		        />
-		<critical_hit_damage_bonus		type="add"	min="0.55"		        />
+		<critical_hit_damage_bonus		type="add"	min="0.5"		        />
 		<human_exp_bonus_when_fatal		type="add"	min="0.25"				/>
 	</ability>
 	
@@ -4530,7 +4530,7 @@
 		localisation_key_description	="item_desc_steel_sword"
 		icon_path						="icons/inventory/weapons/q402_item_epic_sword-64x128.png"
 	>
-		<tags>							Autogen, PlayerSteelWeapon, Weapon, sword1h, 1handedWeapon, mod_weapon, mod_origin_skellige
+		<tags>							Autogen, AutogenUseLevelRange, AutogenForceLevel, PlayerSteelWeapon, Weapon, sword1h, 1handedWeapon, mod_weapon, mod_origin_skellige
 		</tags>
 		<base_abilities>				<a>Default weapon _Stats</a>
 										<a>q402 Skellige sword 3 _Stats</a>
