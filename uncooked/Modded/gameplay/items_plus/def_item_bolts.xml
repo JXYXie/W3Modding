@@ -189,7 +189,7 @@
 		localisation_key_description	="item_desc_bait_bolt" 
 		icon_path						="icons/inventory/arrows/bait_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon
 		</tags>
 		<base_abilities>				<a>bait_bolt _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -209,7 +209,7 @@
 		localisation_key_description	="item_desc_tracking_bolt" 
 		icon_path						="icons/inventory/arrows/tracking_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon
 		</tags>
 		<base_abilities>				<a>tracking_bolt _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -229,7 +229,7 @@
 		localisation_key_description	="item_desc_blunt_bolt" 
 		icon_path						="icons/inventory/arrows/blunt_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon
 		</tags>
 		<base_abilities>				<a>blunt_bolt _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -249,7 +249,7 @@
 		localisation_key_description	="item_desc_blunt_bolt"
 		icon_path						="icons/inventory/arrows/blunt_legendary_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon
 		</tags>
 		<base_abilities>				<a>blunt_bolt_legendary _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -269,7 +269,7 @@
 		localisation_key_description	="item_desc_broadhead_bolt" 
 		icon_path						="icons/inventory/arrows/broadhead_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon
 		</tags>
 		<base_abilities>				<a>broadhead_bolt _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -289,7 +289,7 @@
 		localisation_key_description	="item_desc_broadhead_bolt"
 		icon_path						="icons/inventory/arrows/broadhead_legendary_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon
 		</tags>
 		<base_abilities>				<a>broadhead_bolt_legendary _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -309,7 +309,7 @@
 		localisation_key_description	="item_desc_target_point_bolt" 
 		icon_path						="icons/inventory/arrows/target_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon
 		</tags>
 		<base_abilities>				<a>target_point_bolt _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -329,7 +329,7 @@
 		localisation_key_description	="item_desc_target_point_bolt"
 		icon_path						="icons/inventory/arrows/target_legendary_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon
 		</tags>
 		<base_abilities>				<a>target_point_bolt_legendary _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -349,7 +349,7 @@
 		localisation_key_description	="item_desc_split_bolt" 
 		icon_path						="icons/inventory/arrows/split_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon
 		</tags>
 		<base_abilities>				<a>split_bolt _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -369,7 +369,7 @@
 		localisation_key_description	="item_desc_split_bolt"
 		icon_path						="icons/inventory/arrows/split_legendary_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_legendary, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_legendary
 		</tags>
 		<base_abilities>				<a>split_bolt_legendary _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -389,7 +389,7 @@
 		localisation_key_description	="item_desc_explosive_bolt" 
 		icon_path						="icons/inventory/arrows/explosive_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon
 		</tags>
 		<base_abilities>				<a>explosive_bolt _Stats</a>
 										<a>Default weapon _Stats</a>
@@ -409,7 +409,7 @@
 		localisation_key_description	="item_desc_explosive_bolt"
 		icon_path						="icons/inventory/arrows/explosive_legendary_bolt_64x64.png"
 	>
-		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_legendary, mod_nosale
+		<tags>							Autogen, WeaponTab, bolt, mod_weapon, mod_legendary
 		</tags>
 		<base_abilities>				<a>explosive_bolt_legendary _Stats</a>
 										<a>Default weapon _Stats</a>
