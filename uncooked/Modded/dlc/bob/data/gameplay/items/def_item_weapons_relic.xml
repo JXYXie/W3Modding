@@ -10,14 +10,15 @@
 				<weight							type="base"	min="5.0"				/>
 				<quality						type="add"	min="4"					/>
 				<SlashingDamage 				min="160" 	max="200"				/>
-				<SilverDamage 					min="560" 	max="690"				/>
+				<SilverDamage 					min="575" 	max="700"				/>
 				<item_level_max					type="add"	min="100"				/>
+				<focus_gain 					type="add"	min="0.25" 				/>
 				<critical_hit_chance 			type="add" 	min="0.25" 				/>
 				<critical_hit_damage_bonus 		type="add" 	min="1.0" 				/>
 				<armor_reduction 				type="add" 	min="300" 	max="300" 	/>
-				<desc_staggerchance_mult 		type="add" 	min="0.2" 				/>
+				<desc_staggerchance_mult 		type="add" 	min="0.25" 				/>
 				<StaggerEffect 					is_ability="true" 					/>
-				<buff_apply_chance 				type="add" 	min="0.2" 				/>
+				<buff_apply_chance 				type="add" 	min="0.25" 				/>
 				<nonhuman_exp_bonus_when_fatal 	type="add" 	min="0.5" 				/>
 				<indestructible type="add" min="1" />
 			</ability>

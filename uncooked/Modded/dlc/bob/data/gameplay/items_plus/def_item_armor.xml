@@ -179,11 +179,14 @@
 					<quality						type="add"	min="4"					/>
 					<item_level_min					type="add"	min="40"				/>
 					<item_level_max					type="add"	min="100"				/>
-					<slashing_resistance_perc		type="base"	min="0.40"				/>
-					<piercing_resistance_perc		type="base"	min="0.40"				/>
+					<slashing_resistance_perc		type="base"	min="0.45"				/>
+					<piercing_resistance_perc		type="base"	min="0.45"				/>
 					<bludgeoning_resistance_perc	type="base"	min="0.30"				/>
-					<rending_resistance_perc		type="base"	min="0.30"				/>
-					<bleeding_resistance_perc 		type="base" min="0.30" 				/>
+					<rending_resistance_perc		type="base"	min="0.45"				/>
+					<bleeding_resistance_perc 		type="base" min="0.25" 				/>
+					<burning_resistance_perc 		type="base" min="0.25" 				/>
+					<quen_chance_on_projectile 		type="add" 	min="0.25" 				/>
+					<vitality 						type="base" min="500" 				/>
 					<staminaRegen_armor_mod			type="mult"	min="-0.10"				/>
 				</ability>
 				
@@ -192,11 +195,14 @@
 					<quality						type="add"	min="4"					/>
 					<item_level_min					type="add"	min="40"				/>
 					<item_level_max					type="add"	min="100"				/>
-					<slashing_resistance_perc		type="base"	min="0.40"				/>
-					<piercing_resistance_perc		type="base"	min="0.40"				/>
+					<slashing_resistance_perc		type="base"	min="0.45"				/>
+					<piercing_resistance_perc		type="base"	min="0.45"				/>
 					<bludgeoning_resistance_perc	type="base"	min="0.30"				/>
-					<rending_resistance_perc		type="base"	min="0.30"				/>
-					<bleeding_resistance_perc 		type="base" min="0.30" 				/>
+					<rending_resistance_perc		type="base"	min="0.45"				/>
+					<bleeding_resistance_perc 		type="base" min="0.25" 				/>
+					<burning_resistance_perc 		type="base" min="0.25" 				/>
+					<quen_chance_on_projectile 		type="add" 	min="0.25" 				/>
+					<vitality 						type="base" min="500" 				/>
 					<staminaRegen_armor_mod			type="mult"	min="-0.10"				/>
 				</ability>
 				
@@ -207,11 +213,14 @@
 					<quality						type="add"	min="4"					/>
 					<item_level_min					type="add"	min="40"				/>
 					<item_level_max					type="add"	min="100"				/>
-					<slashing_resistance_perc		type="base"	min="0.40"				/>
-					<piercing_resistance_perc		type="base"	min="0.40"				/>
+					<slashing_resistance_perc		type="base"	min="0.45"				/>
+					<piercing_resistance_perc		type="base"	min="0.45"				/>
 					<bludgeoning_resistance_perc	type="base"	min="0.30"				/>
-					<rending_resistance_perc		type="base"	min="0.30"				/>
-					<bleeding_resistance_perc 		type="base" min="0.30" 				/>
+					<rending_resistance_perc		type="base"	min="0.45"				/>
+					<bleeding_resistance_perc 		type="base" min="0.25" 				/>
+					<burning_resistance_perc 		type="base" min="0.25" 				/>
+					<quen_chance_on_projectile 		type="add" 	min="0.25" 				/>
+					<vitality 						type="base" min="500" 				/>
 					<staminaRegen_armor_mod			type="mult"	min="-0.10"				/>
 				</ability>
 				

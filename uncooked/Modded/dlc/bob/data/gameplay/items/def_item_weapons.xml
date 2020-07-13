@@ -250,6 +250,7 @@
 		<item_level_min					type="add"	min="40"				/>
 		<item_level_max					type="add"	min="100"				/>
 		<SilverDamage 					type="base"	min="20"				/>
+		<focus_gain 					type="add"	min="0.25" 				/>
 		<critical_hit_chance			type="add"	min="0.25"				/>
 		<critical_hit_damage_bonus		type="add"	min="0.75"				/>
 		<desc_bleedingchance_mult		type="add"	min="0.25"				/>
@@ -257,7 +258,7 @@
 		<desc_confusionchance_mult 		type="add" min="0.25" 				/>
 		<ConfusionEffect 				is_ability="true" 					/>
 		<buff_apply_chance				type="add"	min="0.25"				/>
-		<armor_reduction 							min="200"				/>
+		<armor_reduction 							min="300"				/>
 	</ability>
 	
 	<ability name="q704 vampire steel sword _Stats">
@@ -266,6 +267,7 @@
 		<item_level_min					type="add"	min="40"				/>
 		<item_level_max					type="add"	min="100"				/>
 		<SilverDamage 					type="base"	min="20"				/>
+		<focus_gain 					type="add"	min="0.25" 				/>
 		<critical_hit_chance			type="add"	min="0.25"				/>
 		<critical_hit_damage_bonus		type="add"	min="0.75"				/>
 		<desc_bleedingchance_mult		type="add"	min="0.25"				/>
@@ -273,7 +275,7 @@
 		<desc_confusionchance_mult 		type="add" min="0.25" 				/>
 		<ConfusionEffect 				is_ability="true" 					/>
 		<buff_apply_chance				type="add"	min="0.25"				/>
-		<armor_reduction 							min="200"				/>
+		<armor_reduction 							min="300"				/>
 	</ability>
 
 <!-- Silver Swords -->
@@ -376,6 +378,7 @@
 		<SlashingDamage 				type="base"	min="50"				/>
 		<item_level_min					type="add"	min="40"				/>
 		<item_level_max					type="add"	min="100"				/>
+		<focus_gain 					type="add"	min="0.25" 				/>
 		<critical_hit_chance			type="add"	min="0.25"				/>
 		<critical_hit_damage_bonus		type="add"	min="0.75"				/>
 		<desc_bleedingchance_mult		type="add"	min="0.25"				/>
@@ -383,7 +386,7 @@
 		<desc_confusionchance_mult 		type="add" min="0.25" 				/>
 		<ConfusionEffect 				is_ability="true" 					/>
 		<buff_apply_chance				type="add"	min="0.25"				/>
-		<armor_reduction 							min="200"				/>
+		<armor_reduction 							min="300"				/>
 	</ability>
 
 </abilities>
